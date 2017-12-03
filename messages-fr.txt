@@ -4,7 +4,7 @@
 title=ASTEROIDS
 please-wait=S'il vous plaît patienter ... Chargement d'images ...
 start=Appuyez sur ESPACE ou cliquez dessus pour démarrer
-author=by Believerman
+author=Believerman
 instruction1=Comment jouer à...
 instruction2=Les touches fléchées pour faire pivoter, de poussée, le bouclier.
 instruction3=Décrochez le brillant des power-ups pour améliorer votre vaisseau.
